@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c19556f4-221e-48b6-88b5-0337a9e3035b" name="Changes" comment="second programs">
-      <change afterPath="$PROJECT_DIR$/src/Program3_if.java" afterDir="false" />
+    <list default="true" id="c19556f4-221e-48b6-88b5-0337a9e3035b" name="Changes" comment="third program">
+      <change afterPath="$PROJECT_DIR$/src/Program4_and.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program3_if">
+  <component name="RunManager" selected="Application.Program4_and">
     <configuration name="Program2_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program2_Variables" />
       <module name="Java-masterclass" />
@@ -57,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program4_and" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program4_and" />
+      <module name="Java-masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program4_and" />
         <item itemvalue="Application.Program3_if" />
         <item itemvalue="Application.Program2_Variables" />
       </list>
@@ -80,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670054394444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="third program">
+      <created>1670054951845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670054951845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="second programs" />
+    <MESSAGE value="third program" />
+    <option name="LAST_COMMIT_MESSAGE" value="third program" />
   </component>
 </project>
